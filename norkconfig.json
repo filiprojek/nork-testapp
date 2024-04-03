@@ -1,0 +1,12 @@
+{
+    "project_name": "nork-testapp",
+    "lang": "ts",
+    "author": "Filip Rojek",
+    "database": {
+      "db": "mysql",
+      "orm": "sequelize"
+    },
+    "website": "https://filiprojek.cz",
+    "email": "filip@filiprojek.cz",
+    "version": "3.0.5"
+}
